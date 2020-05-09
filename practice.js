@@ -4,8 +4,8 @@
   var fullName = userName.toUpperCase() + ' ' + userSurname.toUpperCase();
   var totalNumOfCharacters = fullName.length
 
+alert(`The string "${fullName}" is ${totalNumOfCharacters} characters long.`);
 
-alert("The string \"" + fullName + "\" is " + totalNumOfCharacters + " characters long.");
 
 
 
